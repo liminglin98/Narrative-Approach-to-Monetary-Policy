@@ -44,7 +44,7 @@
     \item Problem: Endogeneity and omitted variables
     \item Example 1: $MP_t$ is a function of $Y_t$
     \[
-    MP_t = \gamma + \delta Y_t + \eta_t
+    MP_t = MP^n_t+\phi_\pi \pi_t+\phi_Y (Y_t-Y^n_t)
     \]
     \item Example 2: $Y_t$ is a function of $MP_t$ and some other variables
     \[
@@ -224,6 +224,10 @@
     \end{itemize}
     \item Maybe we can also create a new set of criteria for inaction shocks, but it is even harder than identifying action shocks.
   \end{itemize}
+\end{frame}
+\begin{frame}{Inaction as a Shock?}
+  \centering
+  \includegraphics[width=1\linewidth]{Graphs/2021Inaction.png}
 \end{frame}
 \begin{frame}{Toward Better Identification}
   \begin{itemize}

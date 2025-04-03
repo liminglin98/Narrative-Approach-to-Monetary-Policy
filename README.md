@@ -1,1 +1,0 @@
-This is the presentation I made based on Romer, Christina D., and David H. Romer. “Does Monetary Policy Matter? The Narrative Approach after 35 Years.” Working Paper. Working Paper Series. National Bureau of Economic Research, April 2023. https://doi.org/10.3386/w31170.
